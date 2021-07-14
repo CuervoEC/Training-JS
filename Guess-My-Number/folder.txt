@@ -1,0 +1,1 @@
+This text usage to commit folders in GIT.
